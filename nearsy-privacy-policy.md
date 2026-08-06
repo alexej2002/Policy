@@ -1,4 +1,4 @@
-# "Nearsy" Privacy Policy
+# Privacy Policy
 
 Last Updated on August 24, 2016
 
