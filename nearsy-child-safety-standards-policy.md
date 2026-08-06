@@ -1,168 +1,134 @@
-# "Nearsy" Child Safety Standards Policy
+# Child Safety Standards Policy
 
-Effective Date: August 6, 2026
+Last Updated on August 6, 2026
 
-## Purpose
+**IMPORTANT: BY USING THIS MOBILE APPLICATION OR ANY RELATED NEARSY SERVICE, YOU AGREE TO THIS CHILD SAFETY STANDARDS POLICY. IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE THE SERVICE.**
 
-This Child Safety Standards Policy explains how Nearsy protects minors and responds to child sexual abuse and exploitation risks across the service.
+## Child Safety Commitment
 
-Nearsy is an adult-only social and dating application. It is intended for users who are 18 years of age or older. We do not knowingly permit minors to use the service, create profiles, exchange messages, or publish content.
+"Nearsy" ("Us" or "We" or "Our") is committed to maintaining a safe environment for users of its mobile application, web experience, and related services. We have zero tolerance for child sexual abuse and exploitation, and we do not knowingly allow minors to use the service.
 
-This policy applies to the Nearsy mobile applications, web experience, backend services, moderation systems, and any other official Nearsy surface where user content or user accounts are processed.
+Nearsy is an adult-only social and dating application. It is intended for users who are at least eighteen (18) years of age. Nearsy is designed around profile discovery, photos, chat, location-based matching, user reporting, and account controls. Because these features can involve user-generated content and direct communication, we treat child safety as a core product and moderation concern.
 
-## Our Commitment
+This Policy explains the standards We apply to prevent, detect, respond to, and remove child sexual abuse and exploitation content and conduct on Nearsy.
 
-Nearsy is designed to help adults discover and communicate with other adults. Because the service includes public-facing profile information, photos, chat, nearby discovery, and user reporting, child safety is a core product and moderation concern.
+## Not Intended For Use By Children
 
-We do not allow behavior or content that sexualizes, targets, exploits, endangers, coerces, or abuses minors. We also do not allow attempts to use Nearsy to locate, groom, solicit, or manipulate minors.
+"Nearsy" is not directed at children or teenagers under eighteen (18) years of age, and We do not knowingly collect, maintain, or use personal or other information from such users. If We learn or reasonably suspect that an account belongs to a minor, We may disable the account, remove associated content, and take further enforcement action where appropriate.
 
-Where necessary, we may remove content, restrict accounts, preserve records, and escalate issues to the appropriate authorities or trusted safety organizations.
+If you become aware that a child has provided Nearsy with personal information or content, please contact Us at `kindpeople2020@gmail.com`.
 
-## Zero Tolerance
+## Information, Content, and Conduct Covered
 
-Nearsy has zero tolerance for any child sexual abuse material or exploitation-related content, including:
+"Nearsy" receives, collects, stores, and processes information when users access, download, upload to, or otherwise use the service. For purposes of this Policy, covered material may include:
 
-- Visual content that depicts a minor in a sexualized, abusive, or exploitative manner.
-- Text, images, audio, video, or generated content that requests, suggests, advertises, or facilitates sexual contact with a minor.
-- Grooming behavior, including building trust with a minor for sexual purposes.
-- Attempts to solicit sexual images, sexual chat, or in-person sexual contact from a minor.
-- Coercion, extortion, trafficking, or blackmail involving a minor.
-- Content that normalizes, instructs, or encourages sexual abuse of a minor.
-- Attempts to evade moderation, identity checks, or safety systems in order to access child sexual abuse content.
+"Profile Content" meaning display names, catchphrases, descriptions, work, education, gender, age-related information, interests, and other self-authored profile fields.
 
-Any confirmed violation can result in immediate content removal, account suspension, account termination, device- or identifier-level enforcement where appropriate, and reporting where required by law.
+"Media Content" meaning profile photos and other image uploads.
 
-## Age Restriction
+"Communication Content" meaning chat messages, replies, reactions, and other user-to-user communications.
 
-Nearsy is not intended for children or teenagers.
+"Discovery Content" meaning location-related profile data and other information used to show users in nearby and matching surfaces.
 
-To use Nearsy, users must represent that they are of legal age to use the service and agree to the terms of use and privacy policy. If we determine that an account belongs to a minor, or if we reasonably suspect that a minor is using the service, we may:
+"Moderation Content" meaning reports, feedback, review notes, and enforcement records related to abuse prevention or safety review.
 
-- Disable or delete the account.
-- Remove associated profile content and messages where appropriate.
-- Restrict access to matching, chat, location features, or other account functions.
-- Preserve records needed for safety review, fraud prevention, or legal compliance.
-- Escalate the case if the content or behavior indicates abuse, exploitation, or immediate risk.
+We may review the content and context of these materials when necessary to investigate suspected abuse, policy violations, or child safety concerns.
 
-We do not market Nearsy to children and we do not offer child-oriented features.
+## Zero Tolerance for CSAE and CSAM
 
-## Content Covered
+Nearsy has zero tolerance for any child sexual abuse material ("CSAM") or child sexual abuse and exploitation ("CSAE"). This includes, without limitation:
 
-The following Nearsy content types fall under this policy:
+- Any image, video, audio, text, animation, or generated content that depicts, requests, promotes, or facilitates sexual abuse or exploitation of a minor.
+- Any sexualized content involving a minor, whether real, simulated, edited, or generated.
+- Grooming, manipulation, coercion, or trust-building with the intent to exploit a minor.
+- Solicitation of sexual images, sexual conversation, sexual roleplay, or in-person sexual contact involving a minor.
+- Trafficking, extortion, blackmail, or threats involving a minor.
+- Content that encourages, normalizes, or instructs sexual abuse of a minor.
+- Attempts to bypass moderation, identity checks, or safety systems in order to access or distribute CSAE or CSAM.
 
-- Profile text, including display names, catchphrases, descriptions, work, education, interests, and other self-authored fields.
-- Profile photos and other image uploads.
-- Chat messages and other user-to-user communications.
-- Reports, feedback, and abuse complaints.
-- Location-related profile and discovery data.
-- Account metadata that is relevant to abuse prevention and enforcement.
-
-Because Nearsy includes user-generated content, moderation may involve a combination of automated checks and human review.
+Any confirmed violation may result in immediate content removal, account suspension, account termination, preservation of relevant records, and escalation to the appropriate authorities when required by law or when necessary to protect a child.
 
 ## Prohibited Behavior
 
-The following conduct is prohibited on Nearsy:
+The following behavior is prohibited on Nearsy:
 
-- Asking a user to identify as, roleplay as, or impersonate a minor in a sexual context.
-- Seeking minors for dating, sexual, romantic, or exploitative purposes.
-- Sharing or requesting child sexual abuse material.
-- Grooming, seduction, manipulation, or trust-building with the intent to sexualize a minor.
-- Encouraging a minor to move conversation off-platform for sexual purposes.
-- Coercing a minor into sending photos, videos, or personal information.
-- Using Nearsy to organize abuse, trafficking, or harmful contact with minors.
-- Posting content that glamorizes or normalizes sexual abuse of minors.
+- Using the service to locate, contact, groom, solicit, or exploit a minor.
+- Uploading or sharing CSAM or any content that sexualizes a minor.
+- Asking another user to identify as a minor, impersonate a minor, or roleplay as a minor in a sexual context.
+- Encouraging a minor to move to another service for sexual purposes.
+- Using profile text, photos, chat, or reports to arrange exploitative contact with a minor.
+- Providing instructions, links, or materials that facilitate sexual abuse of a minor.
+- Repeatedly attempting to evade moderation or safety enforcement after a child safety report.
 
-If a user profile or message appears to be related to a minor, Nearsy may take action even if the content is ambiguous and even if no explicit sexual content is present, when safety concerns are credible.
+If content appears to involve a minor, We may remove it and restrict the account even if the content is ambiguous and even if no explicit sexual language is present.
 
-## Detection and Moderation
+## Prevention and Moderation
 
-Nearsy uses multiple layers of moderation and enforcement:
+"Nearsy" uses product controls and moderation workflows intended to reduce child safety risks. These controls may include:
 
-- Automated checks for suspicious account behavior, abusive text patterns, and unsafe content signals.
+- Age restriction at registration and account creation.
 - User reporting tools for profiles, photos, and messages.
-- Review flows for profile text and photos that require moderation.
-- Escalation paths for severe or repeated abuse.
+- Automated checks for suspicious behavior and abuse signals.
+- Review flows for profile text and photos.
+- Enforcement actions for repeated or severe violations.
 
-Nearsy may review:
-
-- Profile fields submitted by a user.
-- Photos uploaded to user profiles.
-- Messages shared through chat.
-- Report details and related metadata.
-- Account identifiers and relevant operational logs when needed for safety enforcement.
-
-Moderation decisions may be based on the content itself, the surrounding context, report history, and related account activity.
+Nearsy may use moderation review to inspect profile text, uploaded photos, messages, and related reports. Where appropriate, We may also review account identifiers and operational metadata needed to investigate abuse, enforce policy, or preserve evidence.
 
 ## Enforcement Actions
 
-When Nearsy identifies a policy violation, we may take one or more of the following actions:
+When We identify a violation of this Policy, We may take one or more of the following actions:
 
 - Remove the violating content.
-- Reject or suppress content pending review.
-- Hide or block a profile from discovery surfaces.
-- Restrict messaging or matching features.
-- Temporarily lock the account for further review.
-- Permanently terminate the account.
-- Preserve evidence for internal review or legal compliance.
-- Report credible child safety threats to the appropriate authorities or trusted child-safety organizations.
+- Block or suppress the content from discovery surfaces.
+- Reject content pending review.
+- Limit or disable messaging, matching, or profile visibility features.
+- Suspend or permanently terminate the account.
+- Preserve records necessary for safety review or legal compliance.
+- Report credible child safety threats to law enforcement, child protection organizations, or other appropriate authorities.
 
-Repeated, severe, or coordinated abuse can lead to broader enforcement against associated accounts, devices, or identifiers.
+Repeated, severe, or coordinated violations may also result in broader restrictions on associated accounts, identifiers, or related activity.
 
 ## Reporting
 
-Users can report suspected child safety violations through Nearsy’s in-app reporting tools.
+Users can report suspected child safety violations through Nearsy's in-app reporting tools. Reports may concern profiles, photos, messages, or other user activity.
 
-We also accept direct reports by email at:
+You may also contact Us directly at:
 
-kindpeople2020@gmail.com
+`kindpeople2020@gmail.com`
 
-Reports should include any available details that help us investigate, such as:
-
-- The profile or account involved.
-- The message, photo, or other content in question.
-- The time and context of the incident.
-- Any immediate safety concern or threat.
-
-We review reports as part of our moderation workflow and may prioritize high-risk cases.
-
-## Cooperation With Authorities
-
-Where required by law, or where we believe there is a credible immediate safety risk, Nearsy may preserve, disclose, or refer relevant information to law enforcement, child protection organizations, or other appropriate authorities.
-
-We may also preserve records related to abuse investigations, enforcement decisions, and account activity when those records are needed to protect users or comply with legal obligations.
+Reports should include as much relevant detail as possible, including the profile or account involved, the content at issue, the time of the incident, and any immediate safety concern.
 
 ## Data Handling
 
-Nearsy minimizes data collection to what is needed to operate the service, enforce safety rules, and maintain account integrity.
+Nearsy minimizes data collection to what is needed to operate the service, support account integrity, and enforce safety rules.
 
-We may process:
-
-- Account data such as email address and login identity.
-- Profile data such as display name, age-related information, gender, and other self-authored profile fields.
-- Uploaded photos and moderation results.
-- Chat and report content.
-- Location data used for discovery and nearby matching.
-- Technical identifiers and operational metadata needed for abuse prevention and security.
+Depending on the user action and the content being reviewed, We may process account data, profile data, uploaded photos, chat content, report content, location-related data, and technical identifiers or logs that help with abuse prevention.
 
 We do not use child-related content for advertising targeting. We do not knowingly collect personal data from minors for product growth or marketing purposes.
 
-Some service providers help us operate the app, including authentication, storage, messaging, notifications, and moderation-related infrastructure. These providers process data on our behalf under our instructions.
+Some of Our service providers help operate authentication, storage, messaging, notifications, and moderation-related infrastructure. These providers process data on Our behalf under Our instructions.
 
 ## User Deletion
 
-Nearsy supports account deletion. When a user deletes an account, we remove or de-link data according to our deletion workflow and legal retention obligations.
+Nearsy supports account deletion. When a user deletes an account, We remove or de-link data according to Our deletion workflow and any applicable retention obligations.
 
-If a child safety report is tied to an account that is later deleted, we may still retain limited records needed for safety enforcement, fraud prevention, or legal compliance.
+If a child safety report is tied to an account that is later deleted, We may still retain limited records needed for safety enforcement, fraud prevention, legal compliance, or preservation of evidence.
 
-## Policy Changes
+## Cooperation With Authorities
 
-We may update this policy as Nearsy changes or as legal and platform requirements evolve.
+Where required by law, or where We believe there is a credible immediate safety risk, We may preserve, disclose, or refer relevant information to law enforcement, child protection organizations, or other appropriate authorities.
 
-If we make material changes, we may provide notice through the app, our website, or another official Nearsy communication channel.
+We may also retain records related to abuse investigations, moderation decisions, and account activity when such retention is necessary to protect users or comply with legal obligations.
+
+## Changes to This Policy
+
+We may update this Policy from time to time as Nearsy changes or as legal and platform requirements evolve.
+
+Any change, update, or modification will be effective when posted on the Nearsy website, in the app, or through another official Nearsy communication channel.
+
+Your continued use of the service after a posting of changes means you accept the updated Policy. Use of information that We gather is subject to the Policy in effect at the time of use.
 
 ## Contact
 
-Questions, reports, or requests related to this policy can be sent to:
-
-kindpeople2020@gmail.com
+We can be contacted concerning this Policy by email at `kindpeople2020@gmail.com`.
 
