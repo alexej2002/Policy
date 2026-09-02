@@ -1,0 +1,800 @@
+{
+  "document_id": "privacy_policy",
+  "version": "2026-09-03",
+  "effective_date": "2026-09-03",
+  "locales": [
+    "en",
+    "ru",
+    "de",
+    "es",
+    "fr",
+    "pt-BR",
+    "pt-PT"
+  ],
+  "content": {
+    "en": {
+      "title": "Privacy Policy",
+      "effective_date_label": "Effective 3 September 2026",
+      "intro": "This Policy explains how Exploria (\"Us\", \"We\", or \"Our\") processes data, why it is needed, when it may be provided to service providers, how it is protected, and how users can request deletion.",
+      "sections": [
+        {
+          "id": "section_01",
+          "title": "Who we are",
+          "body": "Exploria (\"Us\", \"We\", or \"Our\") operates the Exploria application. For privacy and personal-data questions, contact us at kindpeople2020@gmail.com."
+        },
+        {
+          "id": "section_02",
+          "title": "Data Exploria processes",
+          "body": "To operate the App, Exploria may process a technical user identifier, account information when progress is saved, profile information, game progress, App settings, and information required for notifications. The exact data processed depends on the features used."
+        },
+        {
+          "id": "section_03",
+          "title": "Anonymous account",
+          "body": "When Exploria is first used, the App may automatically create a technical anonymous account through its authentication system. It receives a unique user identifier used to associate game progress and user data with one account. Creating this account does not require the user to enter a name or email address."
+        },
+        {
+          "id": "section_04",
+          "title": "Persistent account",
+          "body": "If a user chooses to save progress, Exploria may link the account to an available sign-in method such as Google, Apple, or email. In that case, an account identifier and information supplied through that authentication method, such as an email address, may be processed. Exploria should not receive the user’s Google or Apple password."
+        },
+        {
+          "id": "section_05",
+          "title": "Profile",
+          "body": "Exploria may store profile information that the user provides or edits in the App, such as a display name, avatar, and profile description, where those features are available."
+        },
+        {
+          "id": "section_06",
+          "title": "Game progress",
+          "body": "Exploria stores information needed to operate the game and restore progress, including XP, level, game sessions, answers and results, unlocked places and countries, achievements, topic progress, favorite places, and related game statistics."
+        },
+        {
+          "id": "section_07",
+          "title": "App settings",
+          "body": "Exploria may store user settings required to operate the App, such as selected language, sound, vibration, and notification preferences."
+        },
+        {
+          "id": "section_08",
+          "title": "Notifications and device information",
+          "body": "If notifications are enabled, Exploria may process a device identifier or push token, device platform, language, time zone, notification-permission status, and last activity time. This information is used to deliver and localize notifications. Notifications can be disabled in Exploria or in the operating-system settings."
+        },
+        {
+          "id": "section_09",
+          "title": "How data is used",
+          "body": "Data is used to authenticate users, save and synchronize progress, operate profiles, game sessions, achievements and favorites, apply user settings, deliver requested notifications, secure the Service, prevent abuse, and maintain Exploria."
+        },
+        {
+          "id": "section_10",
+          "title": "Service providers",
+          "body": "Exploria uses or may use technical infrastructure providers required for App functionality. In the documented architecture, the backend and authentication are built on Supabase. When Google or Apple sign-in is selected, the relevant provider participates in authentication. Push notifications use platform delivery infrastructure, such as FCM on Android and APNs on iOS, if notifications are implemented in the relevant version. These providers process data under their own terms and privacy policies."
+        },
+        {
+          "id": "section_11",
+          "title": "Data sharing",
+          "body": "Exploria should not sell users’ personal data. Data may be provided to service providers only as necessary to deliver the relevant function, and where required by law, to protect rights and safety, or to prevent abuse. Actual data transfers by third-party SDKs must be consistent with this Policy and the Google Play Data safety declaration."
+        },
+        {
+          "id": "section_12",
+          "title": "Advertising",
+          "body": "Exploria contains advertising. The App may use third-party advertising services and SDKs to display ads. These services may process technical device information, advertising identifiers, and other data required to deliver ads, limit frequency, measure advertising performance, prevent fraud, and comply with platform requirements. The exact data processed depends on the advertising SDK actually used and must match the Google Play Data safety declaration. Exploria does not use analytics or separate Crash Reporting services."
+        },
+        {
+          "id": "section_13",
+          "title": "Data security and retention",
+          "body": "Exploria should transmit personal and sensitive user data over secure connections using modern encryption. Access to server-side user data should be restricted through authentication and access-control rules. Data is retained only as long as necessary to provide the Service, meet lawful obligations, maintain security, and resolve disputes."
+        },
+        {
+          "id": "section_14",
+          "title": "Anonymous progress and reinstallation",
+          "body": "An anonymous account does not guarantee that progress can be restored after uninstalling the App, clearing App data, losing the device, or losing the anonymous session. Users may save progress through a persistent account when that feature is available."
+        },
+        {
+          "id": "section_15",
+          "title": "Account and data deletion",
+          "body": "If a user creates a persistent Exploria account, the user may request deletion of the account and associated user data. Under Google Play requirements, a way to initiate deletion must be available inside the App and through an external developer web resource. Deactivation or disabling is not a substitute for deletion. Certain data may be retained only where there is a lawful basis, such as legal compliance, security, or fraud prevention, and such retention must be disclosed."
+        },
+        {
+          "id": "section_16",
+          "title": "Guest data reset",
+          "body": "Exploria may provide anonymous users with a reset-progress function. Resetting may be irreversible. When implemented, the App should provide a clear warning before deleting the data."
+        },
+        {
+          "id": "section_17",
+          "title": "Children’s data",
+          "body": "Exploria must use the age rating and target-audience declarations selected by the developer in Google Play. If children are included in the target audience, processing of their data and the SDKs used must additionally comply with Google Play Families requirements and applicable law. Exploria should not knowingly collect more data from children than is necessary for permitted functionality."
+        },
+        {
+          "id": "section_18",
+          "title": "International processing",
+          "body": "Infrastructure providers may process data on servers located in different countries. Where required by applicable law, the developer must use appropriate legal and organizational safeguards for such transfers."
+        },
+        {
+          "id": "section_19",
+          "title": "User rights",
+          "body": "Depending on applicable law, users may have rights to request access to personal data, correction, deletion, restriction of processing, or other legally provided actions. Users should use the developer’s contact channel shown on the public Privacy Policy page to exercise these rights."
+        },
+        {
+          "id": "section_20",
+          "title": "Changes to this Policy",
+          "body": "This Policy may be updated when Exploria’s features, service providers, processed data, applicable law, or platform requirements change. The current version states its effective date. Users will be notified of material changes where required by law."
+        },
+        {
+          "id": "section_21",
+          "title": "Contact",
+          "body": "For questions about this Policy, privacy, personal data, access, correction, or deletion, contact us at kindpeople2020@gmail.com. A public Privacy Policy URL must be provided before the App is published."
+        }
+      ]
+    },
+    "ru": {
+      "title": "Политика конфиденциальности",
+      "effective_date_label": "Действует с 3 сентября 2026 г.",
+      "intro": "Настоящая Политика объясняет, как Exploria («Мы», «Нас» или «Наш») обрабатывает данные, зачем они нужны, когда они могут передаваться поставщикам услуг, как они защищаются и как пользователь может запросить их удаление.",
+      "sections": [
+        {
+          "id": "section_01",
+          "title": "Кто мы",
+          "body": "Exploria («Мы», «Нас» или «Наш») является оператором приложения Exploria. По вопросам конфиденциальности и персональных данных свяжитесь с нами: kindpeople2020@gmail.com."
+        },
+        {
+          "id": "section_02",
+          "title": "Какие данные обрабатывает Exploria",
+          "body": "Для работы приложения Exploria может обрабатывать технический идентификатор пользователя, данные учетной записи при ее сохранении, данные профиля, игровой прогресс, настройки приложения и сведения, необходимые для работы уведомлений. Конкретный состав данных зависит от используемых функций."
+        },
+        {
+          "id": "section_03",
+          "title": "Анонимная учетная запись",
+          "body": "При первом использовании Exploria может автоматически создать техническую анонимную учетную запись через систему авторизации. Она получает уникальный идентификатор пользователя, который используется для связи игрового прогресса и пользовательских данных с одной учетной записью. Для создания такой учетной записи не требуется ввод имени или email."
+        },
+        {
+          "id": "section_04",
+          "title": "Постоянная учетная запись",
+          "body": "Если пользователь решает сохранить прогресс, Exploria может связать учетную запись с доступным способом входа, например Google, Apple или email. В этом случае могут обрабатываться идентификатор учетной записи и данные, предоставленные соответствующим способом авторизации, например email. Exploria не должна получать пароль пользователя от Google или Apple."
+        },
+        {
+          "id": "section_05",
+          "title": "Профиль",
+          "body": "Exploria может хранить данные профиля, которые пользователь предоставляет или изменяет в приложении, например отображаемое имя, аватар и описание профиля, если соответствующие функции доступны."
+        },
+        {
+          "id": "section_06",
+          "title": "Игровой прогресс",
+          "body": "Exploria хранит данные, необходимые для работы игры и восстановления прогресса: XP, уровень, игровые сессии, ответы и результаты, открытые места и страны, достижения, прогресс по темам, избранные места и связанную игровую статистику."
+        },
+        {
+          "id": "section_07",
+          "title": "Настройки приложения",
+          "body": "Exploria может хранить пользовательские настройки, необходимые для работы приложения, например выбранный язык, настройки звука, вибрации и уведомлений."
+        },
+        {
+          "id": "section_08",
+          "title": "Уведомления и данные устройства",
+          "body": "Если пользователь включает уведомления, Exploria может обрабатывать идентификатор устройства или push-токен, платформу устройства, язык, часовой пояс, состояние разрешения уведомлений и время последней активности. Эти данные используются для доставки и локализации уведомлений. Пользователь может отключить уведомления в Exploria или в настройках операционной системы."
+        },
+        {
+          "id": "section_09",
+          "title": "Для чего используются данные",
+          "body": "Данные используются для авторизации пользователя, сохранения и синхронизации прогресса, работы профиля, игровых сессий, достижений и избранного, применения пользовательских настроек, доставки запрошенных уведомлений, обеспечения безопасности сервиса, предотвращения злоупотреблений и поддержки работы Exploria."
+        },
+        {
+          "id": "section_10",
+          "title": "Сторонние поставщики",
+          "body": "Exploria использует или может использовать поставщиков технической инфраструктуры, необходимых для функций приложения. В документированной архитектуре backend и авторизация построены на Supabase. При выборе входа через Google или Apple соответствующий поставщик участвует в процессе авторизации. Для push-уведомлений используется платформенная инфраструктура доставки, например FCM на Android и APNs на iOS, если уведомления реализованы в соответствующей версии. Такие поставщики обрабатывают данные в соответствии со своими условиями и политиками."
+        },
+        {
+          "id": "section_11",
+          "title": "Передача данных",
+          "body": "Exploria не должна продавать персональные данные пользователей. Данные могут передаваться поставщикам услуг только в объеме, необходимом для предоставления соответствующей функции, а также когда это требуется законом, для защиты прав и безопасности или предотвращения злоупотреблений. Фактическая передача данных сторонними SDK должна соответствовать этой Политике и декларации Data safety в Google Play."
+        },
+        {
+          "id": "section_12",
+          "title": "Реклама",
+          "body": "Exploria содержит рекламу. Для показа рекламы приложение может использовать сторонние рекламные сервисы и SDK. Такие сервисы могут обрабатывать технические данные устройства, рекламные идентификаторы и другие данные, необходимые для показа, ограничения частоты, измерения эффективности рекламы, предотвращения мошенничества и выполнения требований платформы. Точный состав данных зависит от фактически используемого рекламного SDK и должен соответствовать декларации Data safety в Google Play. Exploria не использует аналитику и отдельные сервисы Crash Reporting."
+        },
+        {
+          "id": "section_13",
+          "title": "Хранение и защита данных",
+          "body": "Exploria должна передавать персональные и чувствительные пользовательские данные по защищенному соединению с использованием современных методов шифрования. Доступ к серверным пользовательским данным должен быть ограничен авторизацией и правилами доступа. Данные хранятся только столько, сколько необходимо для предоставления сервиса, выполнения законных обязательств, обеспечения безопасности и разрешения споров."
+        },
+        {
+          "id": "section_14",
+          "title": "Анонимный прогресс и переустановка",
+          "body": "Анонимная учетная запись не гарантирует восстановление прогресса после удаления приложения, очистки его данных, потери устройства или утраты анонимной сессии. Пользователь может сохранить прогресс через постоянную учетную запись, если эта функция доступна."
+        },
+        {
+          "id": "section_15",
+          "title": "Удаление учетной записи и данных",
+          "body": "Если пользователь создал постоянную учетную запись Exploria, он может запросить ее удаление вместе со связанными пользовательскими данными. В соответствии с требованиями Google Play возможность инициировать удаление должна быть доступна внутри приложения и через внешний веб-ресурс разработчика. Деактивация или блокировка учетной записи не заменяет удаление. Отдельные данные могут сохраняться только при наличии законного основания, например для соблюдения закона, обеспечения безопасности или предотвращения мошенничества, и такая практика должна быть раскрыта пользователю."
+        },
+        {
+          "id": "section_16",
+          "title": "Сброс данных гостя",
+          "body": "Для анонимной учетной записи Exploria может предоставлять функцию сброса прогресса. Сброс может быть необратимым. При реализации этой функции пользователь должен получить понятное предупреждение перед удалением данных."
+        },
+        {
+          "id": "section_17",
+          "title": "Данные детей",
+          "body": "Exploria должна использовать возрастную категорию и целевую аудиторию, заявленные разработчиком в Google Play. Если целевая аудитория включает детей, обработка их данных и используемые SDK должны дополнительно соответствовать требованиям Google Play Families и применимому законодательству. Exploria не должна сознательно собирать больше данных о детях, чем необходимо для разрешенной функциональности."
+        },
+        {
+          "id": "section_18",
+          "title": "Международная обработка",
+          "body": "Поставщики инфраструктуры могут обрабатывать данные на серверах в разных странах. Когда это требуется применимым законодательством, разработчик должен использовать соответствующие правовые и организационные механизмы для такой передачи."
+        },
+        {
+          "id": "section_19",
+          "title": "Права пользователя",
+          "body": "В зависимости от применимого законодательства пользователь может иметь право запросить доступ к своим персональным данным, их исправление, удаление, ограничение обработки или иные предусмотренные законом действия. Для реализации этих прав следует использовать контактный канал разработчика, указанный на публичной странице Политики конфиденциальности."
+        },
+        {
+          "id": "section_20",
+          "title": "Изменения Политики",
+          "body": "Политика может обновляться при изменении функций Exploria, используемых поставщиков, состава обрабатываемых данных, законодательства или требований платформ. В актуальной версии указывается дата вступления в силу. При существенных изменениях пользователь уведомляется, когда это требуется законом."
+        },
+        {
+          "id": "section_21",
+          "title": "Контакты",
+          "body": "По вопросам настоящей Политики, конфиденциальности, персональных данных, доступа, исправления или удаления данных свяжитесь с нами: kindpeople2020@gmail.com. Публичный URL Политики конфиденциальности должен быть указан перед публикацией приложения."
+        }
+      ]
+    },
+    "de": {
+      "title": "Datenschutzerklärung",
+      "effective_date_label": "Gültig ab 3. September 2026",
+      "intro": "Diese Erklärung erläutert, welche Daten Exploria verarbeitet, wofür sie benötigt werden, wann sie Dienstanbietern bereitgestellt werden können, wie sie geschützt werden und wie Benutzer ihre Löschung beantragen können.",
+      "sections": [
+        {
+          "id": "section_01",
+          "title": "Wer wir sind",
+          "body": "Exploria („Wir“, „Uns“ oder „Unser“) betreibt die Exploria-Anwendung. Bei Fragen zum Datenschutz und zu personenbezogenen Daten kontaktieren Sie uns unter kindpeople2020@gmail.com."
+        },
+        {
+          "id": "section_02",
+          "title": "Welche Daten Exploria verarbeitet",
+          "body": "Exploria kann eine technische Benutzerkennung, Kontodaten beim Speichern des Fortschritts, Profildaten, Spielfortschritt, App-Einstellungen und für Benachrichtigungen erforderliche Informationen verarbeiten. Der genaue Umfang hängt von den genutzten Funktionen ab."
+        },
+        {
+          "id": "section_03",
+          "title": "Anonymes Konto",
+          "body": "Bei der ersten Nutzung kann Exploria automatisch ein technisches anonymes Konto über das Authentifizierungssystem erstellen. Es erhält eine eindeutige Benutzerkennung zur Zuordnung von Fortschritt und Benutzerdaten. Dafür müssen weder Name noch E-Mail-Adresse eingegeben werden."
+        },
+        {
+          "id": "section_04",
+          "title": "Dauerhaftes Konto",
+          "body": "Wenn der Benutzer seinen Fortschritt speichert, kann Exploria das Konto mit einer verfügbaren Anmeldemethode wie Google, Apple oder E-Mail verknüpfen. Dabei können eine Kontokennung und über die Anmeldemethode bereitgestellte Daten wie die E-Mail-Adresse verarbeitet werden. Exploria sollte das Google- oder Apple-Passwort des Benutzers nicht erhalten."
+        },
+        {
+          "id": "section_05",
+          "title": "Profil",
+          "body": "Exploria kann vom Benutzer bereitgestellte oder bearbeitete Profildaten wie Anzeigename, Avatar und Profilbeschreibung speichern, sofern diese Funktionen verfügbar sind."
+        },
+        {
+          "id": "section_06",
+          "title": "Spielfortschritt",
+          "body": "Exploria speichert für Spiel und Wiederherstellung erforderliche Daten, darunter XP, Level, Spielsitzungen, Antworten und Ergebnisse, freigeschaltete Orte und Länder, Erfolge, Themenfortschritt, Favoriten und zugehörige Statistiken."
+        },
+        {
+          "id": "section_07",
+          "title": "App-Einstellungen",
+          "body": "Exploria kann Einstellungen wie Sprache, Ton, Vibration und Benachrichtigungspräferenzen speichern."
+        },
+        {
+          "id": "section_08",
+          "title": "Benachrichtigungen und Geräteinformationen",
+          "body": "Wenn Benachrichtigungen aktiviert sind, kann Exploria Gerätekennung oder Push-Token, Plattform, Sprache, Zeitzone, Benachrichtigungsstatus und letzte Aktivität verarbeiten. Diese Daten dienen der Zustellung und Lokalisierung von Benachrichtigungen."
+        },
+        {
+          "id": "section_09",
+          "title": "Zwecke der Verarbeitung",
+          "body": "Daten werden für Authentifizierung, Speicherung und Synchronisierung des Fortschritts, Profile, Spielsitzungen, Erfolge, Favoriten, Einstellungen, angeforderte Benachrichtigungen, Sicherheit, Missbrauchsprävention und Betrieb von Exploria verwendet."
+        },
+        {
+          "id": "section_10",
+          "title": "Dienstanbieter",
+          "body": "Exploria nutzt oder kann technische Dienstanbieter einsetzen. In der dokumentierten Architektur basieren Backend und Authentifizierung auf Supabase. Bei Google- oder Apple-Anmeldung ist der jeweilige Anbieter beteiligt. Push-Benachrichtigungen können FCM auf Android und APNs auf iOS verwenden. Für diese Anbieter gelten deren eigene Bedingungen und Datenschutzrichtlinien."
+        },
+        {
+          "id": "section_11",
+          "title": "Weitergabe von Daten",
+          "body": "Exploria sollte personenbezogene Daten nicht verkaufen. Daten dürfen Dienstanbietern nur soweit für die jeweilige Funktion erforderlich sowie aufgrund gesetzlicher Pflichten, zum Schutz von Rechten und Sicherheit oder zur Missbrauchsprävention bereitgestellt werden. SDK-Datenübertragungen müssen dieser Erklärung und der Google-Play-Erklärung zur Datensicherheit entsprechen."
+        },
+        {
+          "id": "section_12",
+          "title": "Werbung",
+          "body": "Exploria enthält Werbung. Zur Anzeige von Werbung kann die App Dienste und SDKs von Drittanbietern verwenden. Diese können technische Geräteinformationen, Werbe-IDs und andere für Auslieferung, Häufigkeitsbegrenzung, Erfolgsmessung, Betrugsprävention und Plattformanforderungen erforderliche Daten verarbeiten. Der genaue Umfang hängt vom tatsächlich verwendeten Werbe-SDK ab und muss der Google-Play-Erklärung zur Datensicherheit entsprechen. Exploria verwendet keine Analyse- oder separaten Crash-Reporting-Dienste."
+        },
+        {
+          "id": "section_13",
+          "title": "Sicherheit und Aufbewahrung",
+          "body": "Personenbezogene und sensible Daten sollten über sichere Verbindungen mit moderner Verschlüsselung übertragen werden. Der Zugriff auf Serverdaten sollte durch Authentifizierung und Zugriffsregeln beschränkt sein. Daten werden nur so lange aufbewahrt, wie dies für den Dienst, gesetzliche Pflichten, Sicherheit und Streitbeilegung erforderlich ist."
+        },
+        {
+          "id": "section_14",
+          "title": "Anonymer Fortschritt und Neuinstallation",
+          "body": "Ein anonymes Konto garantiert keine Wiederherstellung nach Deinstallation, Löschen der App-Daten, Geräteverlust oder Verlust der anonymen Sitzung. Soweit verfügbar, kann der Fortschritt über ein dauerhaftes Konto gespeichert werden."
+        },
+        {
+          "id": "section_15",
+          "title": "Löschung von Konto und Daten",
+          "body": "Bei einem dauerhaften Exploria-Konto kann der Benutzer die Löschung des Kontos und der zugehörigen Daten beantragen. Nach den Google-Play-Anforderungen muss die Löschung in der App und über eine externe Webressource des Entwicklers eingeleitet werden können. Deaktivierung ersetzt keine Löschung. Daten dürfen nur bei einer offengelegten gesetzlichen Grundlage weiter gespeichert werden."
+        },
+        {
+          "id": "section_16",
+          "title": "Zurücksetzen von Gastdaten",
+          "body": "Exploria kann anonymen Benutzern das Zurücksetzen des Fortschritts ermöglichen. Dies kann unumkehrbar sein und sollte vor der Löschung klar angekündigt werden."
+        },
+        {
+          "id": "section_17",
+          "title": "Daten von Kindern",
+          "body": "Exploria muss die in Google Play gewählte Altersfreigabe und Zielgruppe verwenden. Umfasst die Zielgruppe Kinder, müssen Datenverarbeitung und SDKs zusätzlich die Google-Play-Families-Anforderungen und anwendbares Recht erfüllen."
+        },
+        {
+          "id": "section_18",
+          "title": "Internationale Verarbeitung",
+          "body": "Infrastrukturanbieter können Daten in verschiedenen Ländern verarbeiten. Soweit gesetzlich erforderlich, sind geeignete rechtliche und organisatorische Schutzmaßnahmen anzuwenden."
+        },
+        {
+          "id": "section_19",
+          "title": "Rechte der Benutzer",
+          "body": "Je nach anwendbarem Recht können Benutzer Auskunft, Berichtigung, Löschung, Einschränkung oder andere gesetzliche Rechte verlangen. Dafür ist der auf der öffentlichen Datenschutzseite angegebene Kontakt zu verwenden."
+        },
+        {
+          "id": "section_20",
+          "title": "Änderungen",
+          "body": "Diese Erklärung kann bei Änderungen von Exploria, Dienstanbietern, Datenverarbeitung, Recht oder Plattformanforderungen aktualisiert werden. Die aktuelle Fassung nennt ihr Inkrafttretensdatum."
+        },
+        {
+          "id": "section_21",
+          "title": "Kontakt",
+          "body": "Bei Fragen zu dieser Erklärung, Datenschutz, personenbezogenen Daten, Auskunft, Berichtigung oder Löschung kontaktieren Sie uns unter kindpeople2020@gmail.com. Vor Veröffentlichung muss eine öffentliche URL dieser Datenschutzerklärung angegeben werden."
+        }
+      ]
+    },
+    "es": {
+      "title": "Política de Privacidad",
+      "effective_date_label": "Vigente desde el 3 de septiembre de 2026",
+      "intro": "Esta Política explica qué datos trata Exploria, para qué se necesitan, cuándo pueden facilitarse a proveedores, cómo se protegen y cómo puede solicitarse su eliminación.",
+      "sections": [
+        {
+          "id": "section_01",
+          "title": "Quiénes somos",
+          "body": "Exploria («Nosotros», «Nos» o «Nuestro») opera la aplicación Exploria. Para cuestiones de privacidad y datos personales, contáctenos en kindpeople2020@gmail.com."
+        },
+        {
+          "id": "section_02",
+          "title": "Datos que trata Exploria",
+          "body": "Exploria puede tratar un identificador técnico de usuario, datos de cuenta al guardar el progreso, datos de perfil, progreso del juego, ajustes de la aplicación e información necesaria para las notificaciones. Los datos concretos dependen de las funciones utilizadas."
+        },
+        {
+          "id": "section_03",
+          "title": "Cuenta anónima",
+          "body": "Al utilizar Exploria por primera vez, la aplicación puede crear automáticamente una cuenta anónima técnica mediante el sistema de autenticación. Recibe un identificador único para asociar el progreso y los datos del usuario. No es necesario introducir nombre ni correo electrónico."
+        },
+        {
+          "id": "section_04",
+          "title": "Cuenta permanente",
+          "body": "Si el usuario decide guardar el progreso, Exploria puede vincular la cuenta a un método disponible como Google, Apple o correo electrónico. Pueden tratarse un identificador de cuenta y datos proporcionados por ese método, como el correo electrónico. Exploria no debe recibir la contraseña de Google o Apple."
+        },
+        {
+          "id": "section_05",
+          "title": "Perfil",
+          "body": "Exploria puede almacenar datos de perfil proporcionados o modificados por el usuario, como nombre visible, avatar y descripción, cuando estas funciones estén disponibles."
+        },
+        {
+          "id": "section_06",
+          "title": "Progreso del juego",
+          "body": "Exploria almacena datos necesarios para el juego y la recuperación del progreso: XP, nivel, sesiones, respuestas y resultados, lugares y países desbloqueados, logros, progreso por temas, favoritos y estadísticas relacionadas."
+        },
+        {
+          "id": "section_07",
+          "title": "Ajustes de la aplicación",
+          "body": "Exploria puede almacenar ajustes como idioma, sonido, vibración y preferencias de notificaciones."
+        },
+        {
+          "id": "section_08",
+          "title": "Notificaciones y dispositivo",
+          "body": "Si se activan las notificaciones, Exploria puede tratar un identificador de dispositivo o token push, plataforma, idioma, zona horaria, estado del permiso y última actividad. Se utilizan para entregar y localizar notificaciones."
+        },
+        {
+          "id": "section_09",
+          "title": "Finalidades",
+          "body": "Los datos se utilizan para autenticar, guardar y sincronizar el progreso, gestionar perfiles, sesiones, logros y favoritos, aplicar ajustes, enviar notificaciones solicitadas, proteger el servicio, prevenir abusos y mantener Exploria."
+        },
+        {
+          "id": "section_10",
+          "title": "Proveedores de servicios",
+          "body": "Exploria utiliza o puede utilizar proveedores técnicos necesarios para sus funciones. En la arquitectura documentada, backend y autenticación se basan en Supabase. Google o Apple participan cuando se elige su inicio de sesión. Las notificaciones pueden usar FCM en Android y APNs en iOS. Cada proveedor aplica sus propias condiciones y políticas."
+        },
+        {
+          "id": "section_11",
+          "title": "Compartición de datos",
+          "body": "Exploria no debe vender datos personales. Los datos pueden facilitarse a proveedores solo cuando sea necesario para una función, por obligación legal, para proteger derechos y seguridad o prevenir abusos. Las transferencias realizadas por SDK deben coincidir con esta Política y con Data safety de Google Play."
+        },
+        {
+          "id": "section_12",
+          "title": "Publicidad",
+          "body": "Exploria contiene publicidad. La aplicación puede utilizar servicios y SDK publicitarios de terceros. Estos servicios pueden tratar información técnica del dispositivo, identificadores publicitarios y otros datos necesarios para mostrar anuncios, limitar su frecuencia, medir su rendimiento, prevenir fraude y cumplir los requisitos de la plataforma. Los datos exactos dependen del SDK publicitario utilizado y deben coincidir con Data safety de Google Play. Exploria no utiliza servicios de analítica ni servicios independientes de Crash Reporting."
+        },
+        {
+          "id": "section_13",
+          "title": "Seguridad y conservación",
+          "body": "Los datos personales y sensibles deben transmitirse mediante conexiones seguras con cifrado moderno. El acceso a datos del servidor debe limitarse mediante autenticación y reglas de acceso. Los datos se conservan solo durante el tiempo necesario para prestar el servicio, cumplir obligaciones legales, mantener la seguridad y resolver disputas."
+        },
+        {
+          "id": "section_14",
+          "title": "Progreso anónimo y reinstalación",
+          "body": "Una cuenta anónima no garantiza recuperar el progreso tras desinstalar la aplicación, borrar datos, perder el dispositivo o la sesión. Cuando esté disponible, el usuario puede guardar el progreso mediante una cuenta permanente."
+        },
+        {
+          "id": "section_15",
+          "title": "Eliminación de cuenta y datos",
+          "body": "Si existe una cuenta permanente de Exploria, el usuario puede solicitar eliminarla junto con los datos asociados. Google Play exige que la eliminación pueda iniciarse dentro de la aplicación y mediante un recurso web externo del desarrollador. Desactivar la cuenta no sustituye su eliminación. Solo podrán conservarse datos cuando exista una base legal comunicada al usuario."
+        },
+        {
+          "id": "section_16",
+          "title": "Restablecimiento de datos de invitado",
+          "body": "Exploria puede permitir a usuarios anónimos restablecer su progreso. La acción puede ser irreversible y debe mostrarse una advertencia clara antes de eliminar los datos."
+        },
+        {
+          "id": "section_17",
+          "title": "Datos de menores",
+          "body": "Exploria debe utilizar la clasificación de edad y el público objetivo declarados en Google Play. Si el público incluye menores, el tratamiento de sus datos y los SDK utilizados deben cumplir además Google Play Families y la legislación aplicable."
+        },
+        {
+          "id": "section_18",
+          "title": "Tratamiento internacional",
+          "body": "Los proveedores de infraestructura pueden tratar datos en servidores de distintos países. Cuando la ley lo exija, deben aplicarse salvaguardas jurídicas y organizativas adecuadas."
+        },
+        {
+          "id": "section_19",
+          "title": "Derechos del usuario",
+          "body": "Según la legislación aplicable, el usuario puede tener derecho a solicitar acceso, rectificación, eliminación, limitación u otros derechos legales. Para ejercerlos debe utilizar el contacto indicado en la página pública de la Política."
+        },
+        {
+          "id": "section_20",
+          "title": "Cambios",
+          "body": "Esta Política puede actualizarse cuando cambien Exploria, los proveedores, los datos tratados, la legislación o los requisitos de las plataformas. La versión vigente indica su fecha de entrada en vigor."
+        },
+        {
+          "id": "section_21",
+          "title": "Contacto",
+          "body": "Para cuestiones sobre esta Política, privacidad, datos personales, acceso, rectificación o eliminación, contáctenos en kindpeople2020@gmail.com. Antes de publicar la aplicación debe indicarse una URL pública de esta Política."
+        }
+      ]
+    },
+    "fr": {
+      "title": "Politique de confidentialité",
+      "effective_date_label": "En vigueur à compter du 3 septembre 2026",
+      "intro": "Cette Politique explique quelles données Exploria traite, pourquoi elles sont nécessaires, quand elles peuvent être transmises à des prestataires, comment elles sont protégées et comment demander leur suppression.",
+      "sections": [
+        {
+          "id": "section_01",
+          "title": "Qui sommes-nous",
+          "body": "Exploria (« Nous », « Notre » ou « Nos ») exploite l’application Exploria. Pour toute question relative à la confidentialité ou aux données personnelles, contactez-nous à kindpeople2020@gmail.com."
+        },
+        {
+          "id": "section_02",
+          "title": "Données traitées par Exploria",
+          "body": "Exploria peut traiter un identifiant technique, des données de compte lors de la sauvegarde de la progression, des données de profil, la progression de jeu, les réglages et les informations nécessaires aux notifications. Les données exactes dépendent des fonctions utilisées."
+        },
+        {
+          "id": "section_03",
+          "title": "Compte anonyme",
+          "body": "Lors de la première utilisation, Exploria peut créer automatiquement un compte anonyme technique via son système d’authentification. Un identifiant unique permet d’associer progression et données utilisateur. Aucun nom ni e-mail n’est nécessaire pour créer ce compte."
+        },
+        {
+          "id": "section_04",
+          "title": "Compte permanent",
+          "body": "Si l’utilisateur choisit de sauvegarder sa progression, Exploria peut lier le compte à une méthode disponible telle que Google, Apple ou l’e-mail. Un identifiant de compte et des données fournies par cette méthode, comme l’e-mail, peuvent alors être traités. Exploria ne doit pas recevoir le mot de passe Google ou Apple."
+        },
+        {
+          "id": "section_05",
+          "title": "Profil",
+          "body": "Exploria peut conserver les données de profil fournies ou modifiées par l’utilisateur, telles que nom affiché, avatar et description, lorsque ces fonctions sont disponibles."
+        },
+        {
+          "id": "section_06",
+          "title": "Progression de jeu",
+          "body": "Exploria conserve les données nécessaires au jeu et à la restauration de la progression : XP, niveau, sessions, réponses et résultats, lieux et pays débloqués, succès, progression par thème, favoris et statistiques associées."
+        },
+        {
+          "id": "section_07",
+          "title": "Réglages de l’application",
+          "body": "Exploria peut conserver les réglages tels que langue, son, vibration et préférences de notification."
+        },
+        {
+          "id": "section_08",
+          "title": "Notifications et appareil",
+          "body": "Si les notifications sont activées, Exploria peut traiter un identifiant d’appareil ou jeton push, la plateforme, la langue, le fuseau horaire, l’état de l’autorisation et la dernière activité. Ces données servent à envoyer et localiser les notifications."
+        },
+        {
+          "id": "section_09",
+          "title": "Finalités",
+          "body": "Les données servent à l’authentification, à la sauvegarde et synchronisation de la progression, aux profils, sessions, succès et favoris, aux réglages, aux notifications demandées, à la sécurité, à la prévention des abus et au fonctionnement d’Exploria."
+        },
+        {
+          "id": "section_10",
+          "title": "Prestataires",
+          "body": "Exploria utilise ou peut utiliser des prestataires techniques nécessaires à ses fonctions. Dans l’architecture documentée, le backend et l’authentification reposent sur Supabase. Google ou Apple intervient lorsque son mode de connexion est choisi. Les notifications peuvent utiliser FCM sur Android et APNs sur iOS. Chaque fournisseur applique ses propres conditions et politiques."
+        },
+        {
+          "id": "section_11",
+          "title": "Partage des données",
+          "body": "Exploria ne doit pas vendre les données personnelles. Elles peuvent être transmises aux prestataires uniquement lorsque cela est nécessaire à une fonction, exigé par la loi, nécessaire à la sécurité ou à la prévention des abus. Les transferts par des SDK doivent correspondre à cette Politique et à la déclaration Data safety de Google Play."
+        },
+        {
+          "id": "section_12",
+          "title": "Publicité",
+          "body": "Exploria contient de la publicité. L’application peut utiliser des services et SDK publicitaires tiers. Ces services peuvent traiter des informations techniques sur l’appareil, des identifiants publicitaires et d’autres données nécessaires à l’affichage, à la limitation de fréquence, à la mesure des performances publicitaires, à la prévention de la fraude et au respect des exigences de la plateforme. Les données exactes dépendent du SDK publicitaire effectivement utilisé et doivent correspondre à la déclaration Data safety de Google Play. Exploria n’utilise pas de services d’analyse ni de service Crash Reporting distinct."
+        },
+        {
+          "id": "section_13",
+          "title": "Sécurité et conservation",
+          "body": "Les données personnelles et sensibles doivent être transmises via des connexions sécurisées avec un chiffrement moderne. L’accès aux données serveur doit être limité par authentification et règles d’accès. Les données ne sont conservées que le temps nécessaire au service, aux obligations légales, à la sécurité et au règlement des litiges."
+        },
+        {
+          "id": "section_14",
+          "title": "Progression anonyme et réinstallation",
+          "body": "Un compte anonyme ne garantit pas la récupération de la progression après désinstallation, effacement des données, perte de l’appareil ou de la session. Lorsque disponible, un compte permanent permet de sauvegarder la progression."
+        },
+        {
+          "id": "section_15",
+          "title": "Suppression du compte et des données",
+          "body": "Le titulaire d’un compte permanent Exploria peut demander sa suppression et celle des données associées. Google Play exige que la procédure puisse être initiée dans l’application et via une ressource web externe du développeur. Une désactivation ne remplace pas une suppression. Des données ne peuvent être conservées que sur une base légale communiquée à l’utilisateur."
+        },
+        {
+          "id": "section_16",
+          "title": "Réinitialisation des données invité",
+          "body": "Exploria peut permettre aux utilisateurs anonymes de réinitialiser leur progression. Cette action peut être irréversible et doit faire l’objet d’un avertissement clair avant suppression."
+        },
+        {
+          "id": "section_17",
+          "title": "Données des enfants",
+          "body": "Exploria doit respecter la classification d’âge et le public cible déclarés dans Google Play. Si des enfants font partie du public cible, le traitement de leurs données et les SDK utilisés doivent également respecter Google Play Families et la législation applicable."
+        },
+        {
+          "id": "section_18",
+          "title": "Traitement international",
+          "body": "Les prestataires d’infrastructure peuvent traiter les données sur des serveurs situés dans différents pays. Lorsque la loi l’exige, des garanties juridiques et organisationnelles appropriées doivent être utilisées."
+        },
+        {
+          "id": "section_19",
+          "title": "Droits des utilisateurs",
+          "body": "Selon la loi applicable, les utilisateurs peuvent disposer de droits d’accès, rectification, suppression, limitation ou d’autres droits. Ils peuvent les exercer via le contact indiqué sur la page publique de la Politique."
+        },
+        {
+          "id": "section_20",
+          "title": "Modifications",
+          "body": "Cette Politique peut être mise à jour lorsque les fonctions d’Exploria, les prestataires, les données traitées, la loi ou les exigences des plateformes changent. La version actuelle indique sa date d’entrée en vigueur."
+        },
+        {
+          "id": "section_21",
+          "title": "Contact",
+          "body": "Pour toute question concernant cette Politique, la confidentialité, les données personnelles, l’accès, la rectification ou la suppression, contactez-nous à kindpeople2020@gmail.com. Une URL publique de cette Politique doit être fournie avant la publication de l’application."
+        }
+      ]
+    },
+    "pt-BR": {
+      "title": "Política de Privacidade",
+      "effective_date_label": "Vigente a partir de 3 de setembro de 2026",
+      "intro": "Esta Política explica quais dados o Exploria trata, por que são necessários, quando podem ser fornecidos a prestadores, como são protegidos e como o usuário pode solicitar sua exclusão.",
+      "sections": [
+        {
+          "id": "section_01",
+          "title": "Quem somos",
+          "body": "Exploria (“Nós”, “Nos” ou “Nosso”) opera o aplicativo Exploria. Para questões de privacidade e dados pessoais, entre em contato pelo e-mail kindpeople2020@gmail.com."
+        },
+        {
+          "id": "section_02",
+          "title": "Dados tratados pelo Exploria",
+          "body": "O Exploria pode tratar identificador técnico do usuário, dados da conta ao salvar o progresso, dados de perfil, progresso do jogo, configurações e informações necessárias para notificações. Os dados exatos dependem dos recursos utilizados."
+        },
+        {
+          "id": "section_03",
+          "title": "Conta anônima",
+          "body": "No primeiro uso, o Exploria pode criar automaticamente uma conta anônima técnica pelo sistema de autenticação. Ela recebe um identificador único para associar progresso e dados do usuário. Não é necessário informar nome ou e-mail."
+        },
+        {
+          "id": "section_04",
+          "title": "Conta permanente",
+          "body": "Se o usuário optar por salvar o progresso, o Exploria pode vincular a conta a um método disponível, como Google, Apple ou e-mail. Podem ser tratados um identificador da conta e dados fornecidos pelo método, como e-mail. O Exploria não deve receber a senha do Google ou Apple."
+        },
+        {
+          "id": "section_05",
+          "title": "Perfil",
+          "body": "O Exploria pode armazenar dados de perfil fornecidos ou alterados pelo usuário, como nome de exibição, avatar e descrição, quando esses recursos estiverem disponíveis."
+        },
+        {
+          "id": "section_06",
+          "title": "Progresso do jogo",
+          "body": "O Exploria armazena dados necessários ao jogo e à recuperação do progresso: XP, nível, sessões, respostas e resultados, lugares e países desbloqueados, conquistas, progresso por tema, favoritos e estatísticas relacionadas."
+        },
+        {
+          "id": "section_07",
+          "title": "Configurações",
+          "body": "O Exploria pode armazenar idioma, som, vibração e preferências de notificações."
+        },
+        {
+          "id": "section_08",
+          "title": "Notificações e dispositivo",
+          "body": "Se as notificações forem ativadas, o Exploria pode tratar identificador do dispositivo ou token push, plataforma, idioma, fuso horário, status da permissão e última atividade. Esses dados são usados para entregar e localizar notificações."
+        },
+        {
+          "id": "section_09",
+          "title": "Finalidades",
+          "body": "Os dados são usados para autenticação, salvar e sincronizar progresso, operar perfis, sessões, conquistas e favoritos, aplicar configurações, enviar notificações solicitadas, proteger o serviço, prevenir abusos e manter o Exploria."
+        },
+        {
+          "id": "section_10",
+          "title": "Prestadores de serviço",
+          "body": "O Exploria usa ou pode usar prestadores técnicos necessários às suas funções. Na arquitetura documentada, backend e autenticação usam Supabase. Google ou Apple participa quando seu login é escolhido. Notificações podem usar FCM no Android e APNs no iOS. Esses fornecedores têm seus próprios termos e políticas."
+        },
+        {
+          "id": "section_11",
+          "title": "Compartilhamento",
+          "body": "O Exploria não deve vender dados pessoais. Dados podem ser fornecidos a prestadores apenas quando necessários à função, exigidos por lei, necessários à segurança ou à prevenção de abusos. Transferências feitas por SDKs devem corresponder a esta Política e à declaração Data safety do Google Play."
+        },
+        {
+          "id": "section_12",
+          "title": "Publicidade",
+          "body": "O Exploria contém publicidade. O aplicativo pode usar serviços e SDKs de publicidade de terceiros. Esses serviços podem tratar informações técnicas do dispositivo, identificadores de publicidade e outros dados necessários para exibir anúncios, limitar frequência, medir desempenho, prevenir fraude e cumprir requisitos da plataforma. Os dados exatos dependem do SDK de publicidade utilizado e devem corresponder à declaração Data safety do Google Play. O Exploria não utiliza serviços de análise nem serviços separados de Crash Reporting."
+        },
+        {
+          "id": "section_13",
+          "title": "Segurança e retenção",
+          "body": "Dados pessoais e sensíveis devem ser transmitidos por conexões seguras com criptografia moderna. O acesso a dados no servidor deve ser limitado por autenticação e regras de acesso. Os dados são mantidos somente pelo período necessário ao serviço, obrigações legais, segurança e resolução de disputas."
+        },
+        {
+          "id": "section_14",
+          "title": "Progresso anônimo e reinstalação",
+          "body": "Uma conta anônima não garante recuperação do progresso após desinstalação, exclusão de dados, perda do dispositivo ou da sessão. Quando disponível, o usuário pode salvar o progresso em uma conta permanente."
+        },
+        {
+          "id": "section_15",
+          "title": "Exclusão de conta e dados",
+          "body": "Quem criar uma conta permanente do Exploria pode solicitar sua exclusão e a dos dados associados. O Google Play exige que a exclusão possa ser iniciada no aplicativo e por um recurso web externo do desenvolvedor. Desativação não substitui exclusão. Dados só podem ser mantidos quando houver base legal informada ao usuário."
+        },
+        {
+          "id": "section_16",
+          "title": "Redefinição dos dados de convidado",
+          "body": "O Exploria pode permitir que usuários anônimos redefinam o progresso. A ação pode ser irreversível e deve haver um aviso claro antes da exclusão."
+        },
+        {
+          "id": "section_17",
+          "title": "Dados de crianças",
+          "body": "O Exploria deve respeitar a classificação etária e o público-alvo declarados no Google Play. Se crianças fizerem parte do público, o tratamento de dados e os SDKs também devem cumprir Google Play Families e a legislação aplicável."
+        },
+        {
+          "id": "section_18",
+          "title": "Tratamento internacional",
+          "body": "Prestadores de infraestrutura podem tratar dados em servidores de diferentes países. Quando exigido por lei, devem ser utilizadas salvaguardas jurídicas e organizacionais adequadas."
+        },
+        {
+          "id": "section_19",
+          "title": "Direitos do usuário",
+          "body": "Dependendo da lei aplicável, usuários podem ter direitos de acesso, correção, exclusão, limitação ou outros direitos legais. Para exercê-los, devem usar o contato indicado na página pública da Política."
+        },
+        {
+          "id": "section_20",
+          "title": "Alterações",
+          "body": "Esta Política pode ser atualizada quando mudarem o Exploria, prestadores, dados tratados, legislação ou requisitos das plataformas. A versão atual informa a data de vigência."
+        },
+        {
+          "id": "section_21",
+          "title": "Contato",
+          "body": "Para questões sobre esta Política, privacidade, dados pessoais, acesso, correção ou exclusão, entre em contato pelo e-mail kindpeople2020@gmail.com. Uma URL pública desta Política deve ser informada antes da publicação do aplicativo."
+        }
+      ]
+    },
+    "pt-PT": {
+      "title": "Política de Privacidade",
+      "effective_date_label": "Em vigor desde 3 de setembro de 2026",
+      "intro": "Esta Política explica quais os dados tratados pela Exploria, por que são necessários, quando podem ser fornecidos a prestadores, como são protegidos e como o utilizador pode solicitar a sua eliminação.",
+      "sections": [
+        {
+          "id": "section_01",
+          "title": "Quem somos",
+          "body": "Exploria («Nós», «Nos» ou «Nosso») opera a aplicação Exploria. Para questões de privacidade e dados pessoais, contacte-nos através de kindpeople2020@gmail.com."
+        },
+        {
+          "id": "section_02",
+          "title": "Dados tratados pela Exploria",
+          "body": "A Exploria pode tratar um identificador técnico do utilizador, dados da conta ao guardar o progresso, dados de perfil, progresso do jogo, definições e informações necessárias para notificações. Os dados concretos dependem das funcionalidades utilizadas."
+        },
+        {
+          "id": "section_03",
+          "title": "Conta anónima",
+          "body": "Na primeira utilização, a Exploria pode criar automaticamente uma conta anónima técnica através do sistema de autenticação. É atribuído um identificador único para associar progresso e dados do utilizador. Não é necessário indicar nome ou e-mail."
+        },
+        {
+          "id": "section_04",
+          "title": "Conta permanente",
+          "body": "Se o utilizador optar por guardar o progresso, a Exploria pode associar a conta a um método disponível, como Google, Apple ou e-mail. Podem ser tratados um identificador da conta e dados fornecidos por esse método, como o e-mail. A Exploria não deve receber a palavra-passe da Google ou Apple."
+        },
+        {
+          "id": "section_05",
+          "title": "Perfil",
+          "body": "A Exploria pode guardar dados de perfil fornecidos ou alterados pelo utilizador, como nome apresentado, avatar e descrição, quando estas funcionalidades estiverem disponíveis."
+        },
+        {
+          "id": "section_06",
+          "title": "Progresso do jogo",
+          "body": "A Exploria guarda dados necessários ao jogo e à recuperação do progresso: XP, nível, sessões, respostas e resultados, locais e países desbloqueados, conquistas, progresso por tema, favoritos e estatísticas relacionadas."
+        },
+        {
+          "id": "section_07",
+          "title": "Definições",
+          "body": "A Exploria pode guardar idioma, som, vibração e preferências de notificações."
+        },
+        {
+          "id": "section_08",
+          "title": "Notificações e dispositivo",
+          "body": "Se as notificações estiverem ativadas, a Exploria pode tratar identificador do dispositivo ou token push, plataforma, idioma, fuso horário, estado da permissão e última atividade. Estes dados são usados para entregar e localizar notificações."
+        },
+        {
+          "id": "section_09",
+          "title": "Finalidades",
+          "body": "Os dados são usados para autenticação, guardar e sincronizar progresso, operar perfis, sessões, conquistas e favoritos, aplicar definições, enviar notificações solicitadas, proteger o serviço, prevenir abusos e manter a Exploria."
+        },
+        {
+          "id": "section_10",
+          "title": "Prestadores de serviços",
+          "body": "A Exploria utiliza ou pode utilizar prestadores técnicos necessários às suas funções. Na arquitetura documentada, backend e autenticação usam Supabase. A Google ou Apple participa quando o respetivo início de sessão é escolhido. As notificações podem usar FCM no Android e APNs no iOS. Estes fornecedores têm os seus próprios termos e políticas."
+        },
+        {
+          "id": "section_11",
+          "title": "Partilha",
+          "body": "A Exploria não deve vender dados pessoais. Os dados podem ser fornecidos a prestadores apenas quando necessários à função, exigidos por lei, necessários à segurança ou à prevenção de abusos. Transferências realizadas por SDKs devem corresponder a esta Política e à declaração Data safety do Google Play."
+        },
+        {
+          "id": "section_12",
+          "title": "Publicidade",
+          "body": "A Exploria contém publicidade. A aplicação pode utilizar serviços e SDKs de publicidade de terceiros. Estes serviços podem tratar informações técnicas do dispositivo, identificadores de publicidade e outros dados necessários para apresentar anúncios, limitar a frequência, medir o desempenho, prevenir fraude e cumprir requisitos da plataforma. Os dados concretos dependem do SDK de publicidade utilizado e devem corresponder à declaração Data safety do Google Play. A Exploria não utiliza serviços de análise nem serviços separados de Crash Reporting."
+        },
+        {
+          "id": "section_13",
+          "title": "Segurança e conservação",
+          "body": "Dados pessoais e sensíveis devem ser transmitidos por ligações seguras com encriptação moderna. O acesso a dados no servidor deve ser limitado por autenticação e regras de acesso. Os dados são conservados apenas pelo período necessário ao serviço, obrigações legais, segurança e resolução de litígios."
+        },
+        {
+          "id": "section_14",
+          "title": "Progresso anónimo e reinstalação",
+          "body": "Uma conta anónima não garante a recuperação do progresso após desinstalação, eliminação de dados, perda do dispositivo ou da sessão. Quando disponível, o utilizador pode guardar o progresso numa conta permanente."
+        },
+        {
+          "id": "section_15",
+          "title": "Eliminação da conta e dos dados",
+          "body": "Quem criar uma conta permanente da Exploria pode solicitar a sua eliminação e a dos dados associados. O Google Play exige que a eliminação possa ser iniciada na aplicação e através de um recurso web externo do programador. A desativação não substitui a eliminação. Os dados só podem ser conservados quando existir uma base legal comunicada ao utilizador."
+        },
+        {
+          "id": "section_16",
+          "title": "Reposição dos dados de convidado",
+          "body": "A Exploria pode permitir que utilizadores anónimos reponham o progresso. A ação pode ser irreversível e deve existir um aviso claro antes da eliminação."
+        },
+        {
+          "id": "section_17",
+          "title": "Dados de crianças",
+          "body": "A Exploria deve respeitar a classificação etária e o público-alvo declarados no Google Play. Se crianças fizerem parte do público, o tratamento de dados e os SDKs também devem cumprir Google Play Families e a legislação aplicável."
+        },
+        {
+          "id": "section_18",
+          "title": "Tratamento internacional",
+          "body": "Os prestadores de infraestrutura podem tratar dados em servidores de diferentes países. Quando exigido por lei, devem ser utilizadas salvaguardas jurídicas e organizacionais adequadas."
+        },
+        {
+          "id": "section_19",
+          "title": "Direitos do utilizador",
+          "body": "Dependendo da lei aplicável, os utilizadores podem ter direitos de acesso, correção, eliminação, limitação ou outros direitos legais. Para os exercer, devem utilizar o contacto indicado na página pública da Política."
+        },
+        {
+          "id": "section_20",
+          "title": "Alterações",
+          "body": "Esta Política pode ser atualizada quando mudarem a Exploria, prestadores, dados tratados, legislação ou requisitos das plataformas. A versão atual indica a data de entrada em vigor."
+        },
+        {
+          "id": "section_21",
+          "title": "Contacto",
+          "body": "Para questões sobre esta Política, privacidade, dados pessoais, acesso, correção ou eliminação, contacte-nos através de kindpeople2020@gmail.com. Deve ser indicado um URL público desta Política antes da publicação da aplicação."
+        }
+      ]
+    }
+  }
+}
