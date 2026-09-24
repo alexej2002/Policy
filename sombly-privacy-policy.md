@@ -352,4 +352,4 @@ updated Policy.
 For questions, privacy concerns, child safety concerns, or other matters
 relating to this Privacy Policy, contact:
 
-`kindpeople2020@gmail.com`
+`anonymouschatapp@gmail.com `
