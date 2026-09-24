@@ -148,7 +148,7 @@ child safety violations on Sombly, you can report the issue:
 -   through the in-app **"Report and block"** action; or
 -   by contacting us at:
 
-kindpeople2020@gmail.com
+anonymouschatapp@gmail.com 
 
 When submitting a report, please provide relevant information where
 available, such as:
@@ -228,7 +228,4 @@ reflect:
 ## Contact Information
 
 For questions about this policy or to report suspected CSAE, CSAM,
-grooming, or child exploitation involving Sombly, contact:
-
-kindpeople2020@gmail.com
-
+grooming, or child exploitation involving Sombly, contact:  anonymouschatapp@gmail.com 
